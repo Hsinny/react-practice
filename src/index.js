@@ -12,5 +12,5 @@ import Message from './Message';
 // 把 <List/> 元素放進 id='root' 的 DOM 內
 // 第一個參數為 React element => <List/> 為元素，型別為物件，利用組件，建立很多元素
 // 第二個參數為 DOM container
-ReactDOM.render(<Message/>, document.getElementById('root')); 
-// ReactDOM.render(<List/>, document.getElementById('root')); 
+// ReactDOM.render(<Message/>, document.getElementById('root')); 
+ReactDOM.render(<List/>, document.getElementById('root')); 

@@ -5,9 +5,9 @@ class List extends Component {
     render(){
         return (
             <ol>
-              <Item/>
-              <Item/>
-              <Item/>
+              <Item text="1" price={100}/>
+              <Item text="2" price="100"/>
+              <Item text="3"/>
             </ol>
         )
     }
