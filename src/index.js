@@ -15,5 +15,8 @@ import ReactDOM from 'react-dom';
 // ReactDOM.render(<Message/>, document.getElementById('root')); 
 // ReactDOM.render(<List/>, document.getElementById('root')); 
 
-import Parent from './Parent';  
-ReactDOM.render(<Parent initCount={10}/>, document.getElementById('root')); 
+// import Parent from './Parent';  
+// ReactDOM.render(<Parent initCount={10}/>, document.getElementById('root')); 
+
+import ParentCommunication from './ParentCommunication';  
+ReactDOM.render(<ParentCommunication/>, document.getElementById('root')); 
