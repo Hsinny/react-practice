@@ -18,5 +18,8 @@ import ReactDOM from 'react-dom';
 // import Parent from './Parent';  
 // ReactDOM.render(<Parent initCount={10}/>, document.getElementById('root')); 
 
-import ParentCommunication from './ParentCommunication';  
-ReactDOM.render(<ParentCommunication/>, document.getElementById('root')); 
+// import ParentCommunication from './ParentCommunication';  
+// ReactDOM.render(<ParentCommunication/>, document.getElementById('root')); 
+
+import ImgToggle from './ImgToggle';  
+ReactDOM.render(<ImgToggle/>, document.getElementById('root')); 
