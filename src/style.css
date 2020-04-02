@@ -1,3 +1,16 @@
 .hide { 
     display: none;
 }
+
+.progressBar {
+    border: 1px solid gray;
+    position: relative;
+}
+
+.progressBar-inner {
+    height: -webkit-fill-available;
+    background-color: aquamarine;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}

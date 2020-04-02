@@ -21,5 +21,8 @@ import ReactDOM from 'react-dom';
 // import ParentCommunication from './ParentCommunication';  
 // ReactDOM.render(<ParentCommunication/>, document.getElementById('root')); 
 
-import ImgToggle from './ImgToggle';  
-ReactDOM.render(<ImgToggle/>, document.getElementById('root')); 
+// import ImgToggle from './ImgToggle';  
+// ReactDOM.render(<ImgToggle/>, document.getElementById('root')); 
+
+import Progress from './Progress';  
+ReactDOM.render(<Progress/>, document.getElementById('root')); 
