@@ -27,5 +27,11 @@ import ReactDOM from 'react-dom';
 // import Progress from './Progress';  
 // ReactDOM.render(<Progress/>, document.getElementById('root')); 
 
-import CssButton from './CssButton';  
-ReactDOM.render(<CssButton/>, document.getElementById('root')); 
+// import CssButton from './CssButton';  
+// ReactDOM.render(<CssButton/>, document.getElementById('root'));
+
+// import ListObj from './ListObj';  
+// ReactDOM.render(<ListObj/>, document.getElementById('root'));
+
+import ListObjArray from './ListObjArray';  
+ReactDOM.render(<ListObjArray/>, document.getElementById('root'));
