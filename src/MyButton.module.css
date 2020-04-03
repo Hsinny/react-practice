@@ -1,0 +1,14 @@
+.btn {
+    min-width: 200px;
+    background-color: #cde;
+    padding: 12px;
+    margin: 12px;
+}
+
+.btn-txt {
+    font-size: 20px;
+}
+
+.big_txt {
+    font-size: 24px;
+}

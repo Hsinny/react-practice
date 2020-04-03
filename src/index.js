@@ -24,5 +24,8 @@ import ReactDOM from 'react-dom';
 // import ImgToggle from './ImgToggle';  
 // ReactDOM.render(<ImgToggle/>, document.getElementById('root')); 
 
-import Progress from './Progress';  
-ReactDOM.render(<Progress/>, document.getElementById('root')); 
+// import Progress from './Progress';  
+// ReactDOM.render(<Progress/>, document.getElementById('root')); 
+
+import CssButton from './CssButton';  
+ReactDOM.render(<CssButton/>, document.getElementById('root')); 
