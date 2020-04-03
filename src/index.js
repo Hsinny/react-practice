@@ -39,5 +39,8 @@ import ReactDOM from 'react-dom';
 // import ListObjArray from './ListObjArray';  
 // ReactDOM.render(<ListObjArray/>, document.getElementById('root'));
 
-import FileTree from './FileTree';  
-ReactDOM.render(<FileTree/>, document.getElementById('root'));
+// import FileTree from './FileTree';  
+// ReactDOM.render(<FileTree/>, document.getElementById('root'));
+
+import Salary from './Salary';  
+ReactDOM.render(<Salary/>, document.getElementById('root'));
