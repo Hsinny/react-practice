@@ -33,5 +33,11 @@ import ReactDOM from 'react-dom';
 // import ListObj from './ListObj';  
 // ReactDOM.render(<ListObj/>, document.getElementById('root'));
 
-import ListObjArray from './ListObjArray';  
-ReactDOM.render(<ListObjArray/>, document.getElementById('root'));
+// import StyledComponents from './StyledComponents';  
+// ReactDOM.render(<StyledComponents/>, document.getElementById('root')); 
+
+// import ListObjArray from './ListObjArray';  
+// ReactDOM.render(<ListObjArray/>, document.getElementById('root'));
+
+import FileTree from './FileTree';  
+ReactDOM.render(<FileTree/>, document.getElementById('root'));
