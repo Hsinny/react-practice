@@ -42,5 +42,8 @@ import ReactDOM from 'react-dom';
 // import FileTree from './FileTree';  
 // ReactDOM.render(<FileTree/>, document.getElementById('root'));
 
-import Salary from './Salary';  
-ReactDOM.render(<Salary/>, document.getElementById('root'));
+// import Salary from './Salary';  
+// ReactDOM.render(<Salary/>, document.getElementById('root'));
+
+import AddTodoList from './AddTodoList';  
+ReactDOM.render(<AddTodoList/>, document.getElementById('root'));
