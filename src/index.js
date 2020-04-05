@@ -45,5 +45,23 @@ import ReactDOM from 'react-dom';
 // import Salary from './Salary';  
 // ReactDOM.render(<Salary/>, document.getElementById('root'));
 
-import AddTodoList from './AddTodoList';  
-ReactDOM.render(<AddTodoList/>, document.getElementById('root'));
+// import AddTodoList from './AddTodoList';  
+// ReactDOM.render(<AddTodoList/>, document.getElementById('root'));
+
+// import Courses from './Courses';  
+// ReactDOM.render(<Courses/>, document.getElementById('root'));
+
+// import Shop from './Shop';  
+// ReactDOM.render(<Shop/>, document.getElementById('root'));
+
+// import ShopContext from './ShopContext';  
+// ReactDOM.render(<ShopContext/>, document.getElementById('root'));
+
+// import Filter from './Filter';  
+// ReactDOM.render(<Filter/>, document.getElementById('root'));
+
+// import App from './App';  
+// ReactDOM.render(<App/>, document.getElementById('root'));
+
+import Login from './Login';  
+ReactDOM.render(<Login/>, document.getElementById('root'));
